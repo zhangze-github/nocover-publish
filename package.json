@@ -1,0 +1,20 @@
+{
+  "name": "nocover-publish",
+  "version": "1.0.3",
+  "description": "适用于单页面应用的非覆盖式发布",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "zhangze-npm",
+  "license": "ISC",
+  "keywords": [
+    "nocover",
+    "publish",
+    "xftp",
+    "static"
+  ],
+  "dependencies": {
+    "ssh2-sftp-client": "^5.3.2"
+  }
+}
