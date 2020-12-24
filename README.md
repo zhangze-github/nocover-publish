@@ -1,5 +1,7 @@
 
-> npm install nocover-publish --save -dev
+```js
+npm install nocover-publish --save -dev
+```
 
 ### 适用于前端静态资源的非覆盖式发布
 
